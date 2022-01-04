@@ -1,0 +1,7 @@
+server:
+  port: 8086
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://SV-Test:sayali@test.qx1qz.mongodb.net/Payments
