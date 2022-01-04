@@ -1,0 +1,10 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: ADMIN-SERVICE
+
+  data:
+    mongodb:
+      uri: mongodb+srv://SV-Test:sayali@test.qx1qz.mongodb.net/Main
