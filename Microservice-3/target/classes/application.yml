@@ -1,0 +1,8 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: Order-Service
+  data:
+    mongodb:
+      uri: mongodb+srv://ramith:test@cluster0.u7eyj.mongodb.net/order
